@@ -1,8 +1,7 @@
-# Frontend: React.js + Typescript + Vite
-
+# Backend: Node.js (Express.js)
 ## Тема: Веб-приложение для бронирования онлайн билетов в кинотеатр и разработка информационной системы для администрирования залов, сеансов и предварительного бронирования билетов.
 
-### Тут ссылка на [Backend](https://github.com/RomanMenshikov92/diploma-backend-express)
+### Тут ссылка на [Frontend](https://github.com/RomanMenshikov92/diploma-frontend-react)
 
 ### Архитектура веб-приложения - SPA (Single Page Application) + API.
 
